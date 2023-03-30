@@ -44,8 +44,7 @@ let time = moment.tz('Asia/Jakarta').format('HH:mm:ss')
   let cap = `
 ❍⃕  「 ${name} 」
 
-❍⃕  *I N F O - B O T*\n\n${emot} Sistem otomatis (WhatsApp Bot) yang dapat membantu un tuk melakukan sesuatu, mencari dan mendapatkan data/informasi hanya melalui WhatsApp.\n\n❍⃕   *N O T E* \n\n${emot} Gunakan bot di private message agar bot merespon dengan cepat, \n\n${emot} Beri jeda yah agar terhindar dari banned😇\n\n📮 *Note:* _Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner dengan cara ketik .report banh tik tok audio error_
-  \n\nQuote: “${qt}“`\n${botdate}
+❍⃕  *I N F O - B O T*\n\n${emot} Sistem otomatis (WhatsApp Bot) yang dapat membantu un tuk melakukan sesuatu, mencari dan mendapatkan data/informasi hanya melalui WhatsApp.\n\n❍⃕   *N O T E* \n\n${emot} Gunakan bot di private message agar bot merespon dengan cepat, \n\n${emot} Beri jeda yah agar terhindar dari banned😇\n\n📮 *Note:* _Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner dengan cara ketik .report banh tik tok audio error_\n\nQuote: “${qt}“\n${botdate}`
   let ucp = `${ucapan()}, ${tag} 👋`
 let fpayment = {
   "key": {
